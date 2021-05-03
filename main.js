@@ -88,7 +88,7 @@ function phoneticEquivalent(actualNumber) {
         }
     }
     if (resultingStr === "") {
-        console.log("The array is empty!");
+        console.log("No added numbers!");
     }
     else {
         console.log(resultingStr);
