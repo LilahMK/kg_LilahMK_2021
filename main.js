@@ -88,7 +88,7 @@ function phoneticEquivalent(actualNumber) {
         }
     }
     if (resultingStr === "") {
-        console.log("No added numbers!");
+        console.log("You didn't enterned number to convert!");
     }
     else {
         console.log(resultingStr);
